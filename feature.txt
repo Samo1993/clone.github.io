@@ -1,2 +1,3 @@
 This is a feature branch text
-Hi add this secod line text on GIThub
+I add this secod line text on GIThub
+I've add this line text on GIThub for GIT fetch lesson
